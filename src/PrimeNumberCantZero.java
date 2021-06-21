@@ -8,6 +8,7 @@ public class PrimeNumberCantZero {
 
         j = 2;
 
+
         while (a % j != 0) { //a가 나누어지는 값이 자신인지 아닌지로 소수구분
             j++;
             }
